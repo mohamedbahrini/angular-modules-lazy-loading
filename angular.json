@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "selenium-front": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "selenium-front"
+    }
+  },
+  "defaultProject": "selenium-front",
+  "cli": {
+    "analytics": "092a8888-9919-4b6e-9710-909105d5d94a"
+  }
 }
